@@ -31,7 +31,8 @@ namespace TugasOOP
             do
             {
 
-           
+            Console.WriteLine("Welcome To My Restaurant");
+                Console.WriteLine("***********************************");
             Console.WriteLine($"Menu yang tersedia : ");
             Console.WriteLine(" ");
             for (int i = 0; i < productList.Count; i++)
